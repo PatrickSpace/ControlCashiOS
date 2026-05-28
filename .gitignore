@@ -1,0 +1,9 @@
+# Firebase local configuration
+GoogleService-Info.plist
+**/GoogleService-Info.plist
+
+# Xcode/user-local files
+.DS_Store
+*.xcuserstate
+xcuserdata/
+**/xcuserdata/
